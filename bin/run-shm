@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export LD_PRELOAD=$(pwd)/libhook.so
+QEMU=$(pwd)/qemu-x86_64
+$QEMU -- $@
