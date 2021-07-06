@@ -4,7 +4,7 @@
 
 ## Dependencies
 
-TensileFuzz invokes CVC4 (version 1.7) as smt-solver so you should install CVC4 first. It is available at https://github.com/CVC4/CVC4
+TensileFuzz invokes CVC4 (version 1.7) as smt-solver so you should install CVC4 first. It is available at https://github.com/CVC4/CVC4.
 
 ## Description
 
